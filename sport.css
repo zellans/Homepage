@@ -29,6 +29,8 @@ h1{
   line-height: 80px;
   padding: 0 100px;
   font-weight: bold;
+  text-align: center;
+  margin: 5px;
 }
 
 nav ul{
@@ -195,4 +197,15 @@ ul{
   .footer-col {
     width: 50%;
   }
+}
+p{
+  color: white;
+  font-size: 18px;
+  padding: 0 100px;
+  text-align: center;
+  background-color: black;
+  }
+p:hover{
+  color: #e1ff1f;
+  background-color: #black;
 }
